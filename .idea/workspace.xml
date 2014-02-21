@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40abf149-9cd6-42f7-b10a-38c50ea31bbf" name="Default" comment="" />
+    <list default="true" id="40abf149-9cd6-42f7-b10a-38c50ea31bbf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="pygram.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,97 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test.py">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="14" selection-start="511" selection-end="511" vertical-scroll-proportion="0.84686345" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gotham.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filters/gotham.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vignette.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/decorations/vignette.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="0" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="1" column="6" selection-start="12" selection-end="12" vertical-scroll-proportion="0.030195381" vertical-offset="0" max-vertical-offset="563">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frame.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/decorations/frame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="9" selection-start="0" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/decorations/border.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="9" selection-start="0" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filters/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nashville.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filters/nashville.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="33" selection-start="0" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kelvin.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filters/kelvin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="32" selection-start="0" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toaster.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filters/toaster.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="28" selection-start="0" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -129,6 +47,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -148,6 +74,7 @@
         <option value="$PROJECT_DIR$/filters/__init__.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tests/test.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -157,7 +84,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -449,6 +376,23 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="40abf149-9cd6-42f7-b10a-38c50ea31bbf" name="Default" comment="" />
@@ -538,7 +482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filters/kelvin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="0" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+        <state line="7" column="32" selection-start="0" selection-end="338" vertical-scroll-proportion="0.21636364" vertical-offset="0" max-vertical-offset="550">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -547,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filters/nashville.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="33" selection-start="0" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="10" column="33" selection-start="0" selection-end="307" vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="563">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -556,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filters/toaster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="0" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+        <state line="11" column="28" selection-start="0" selection-end="434" vertical-scroll-proportion="0.3321492" vertical-offset="0" max-vertical-offset="563">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -565,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filters/gotham.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="9" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.27818182" vertical-offset="0" max-vertical-offset="550">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -574,14 +518,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decorations/vignette.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="0" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="1" column="0" selection-start="0" selection-end="606" vertical-scroll-proportion="0.030909091" vertical-offset="0" max-vertical-offset="550">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/decorations/frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="0" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="10" column="9" selection-start="0" selection-end="391" vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="563">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -590,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decorations/border.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="0" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="8" column="9" selection-start="0" selection-end="275" vertical-scroll-proportion="0.24156305" vertical-offset="0" max-vertical-offset="563">
           <folding />
         </state>
       </provider>
@@ -606,28 +550,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filters/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+        <state line="4" column="18" selection-start="126" selection-end="126" vertical-scroll-proportion="0.120781526" vertical-offset="0" max-vertical-offset="563">
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="0" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+        <state line="27" column="14" selection-start="511" selection-end="511" vertical-scroll-proportion="0.8152753" vertical-offset="0" max-vertical-offset="563">
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="14" selection-start="511" selection-end="511" vertical-scroll-proportion="0.84686345" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state line="1" column="6" selection-start="12" selection-end="12" vertical-scroll-proportion="0.030195381" vertical-offset="0" max-vertical-offset="563">
+          <folding />
         </state>
       </provider>
     </entry>
