@@ -1,7 +1,6 @@
 import subprocess
 import Image
 
-
 class PyGram():
     def __init__(self, filename):
         self.filename = filename
